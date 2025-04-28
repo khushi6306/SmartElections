@@ -73,20 +73,6 @@ python main.py
 
 ---
 
-## 🧩 Folder Structure
-
-```plaintext
-SmartElections/
-│
-├── assets/               # Images, icons (UI assets)
-├── database/             # DB files (e.g., votes.db)
-├── biometric/            # Biometric authentication code
-├── main.py               # Entry point of the project
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 🎯 Future Improvements
 
@@ -97,29 +83,3 @@ SmartElections/
 - AI-based fraud detection alerts.
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions to make SmartElections even better!  
-Check out the [issues](https://github.com/yourusername/SmartElections/issues) page or create a pull request.
-
-Steps to contribute:
-1. Fork the project
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**.  
-See [LICENSE](LICENSE) for more information.
-
----
-
-## 📬 Contact
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: yourname@example.com
